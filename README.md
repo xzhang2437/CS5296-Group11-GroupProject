@@ -18,6 +18,6 @@ Install PMLS following the illustration provided by the [documents of Petuum](ht
 Run the following command to launch the demo program. 
 
 
-'''markdown
+```
 ./PMLS/app/mlr/script/launch.py
-'''
+```
