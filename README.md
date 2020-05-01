@@ -12,8 +12,12 @@
 
 ### PMLS (Petuum)
 
-Install PMLS following the illustration provided by the [documents of Petuum](https://pmls.readthedocs.io/en/latest/index.html)
+Install PMLS following the illustration provided by the [documents of Petuum](https://pmls.readthedocs.io/en/latest/index.html).
+
+
 Run the following command to launch the demo program. 
-'''
+
+
+'''markdown
 ./PMLS/app/mlr/script/launch.py
 '''
